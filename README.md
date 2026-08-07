@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/01ATHARVAMODI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/01ATHARVAMODI/DSA/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/01ATHARVAMODI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
