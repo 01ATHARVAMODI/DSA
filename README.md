@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/01ATHARVAMODI/DSA/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/01ATHARVAMODI/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/01ATHARVAMODI/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
 | ------- |
