@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/01ATHARVAMODI/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/01ATHARVAMODI/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1528-shuffle-string](https://github.com/01ATHARVAMODI/DSA/tree/master/1528-shuffle-string) |
+| [3875-construct-uniform-parity-array-i](https://github.com/01ATHARVAMODI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/01ATHARVAMODI/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/01ATHARVAMODI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
