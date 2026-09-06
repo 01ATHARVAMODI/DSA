@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/01ATHARVAMODI/DSA/tree/master/0055-jump-game) |
+| [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/01ATHARVAMODI/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3668-restore-finishing-order](https://github.com/01ATHARVAMODI/DSA/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
 ## Stack
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/01ATHARVAMODI/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/01ATHARVAMODI/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Breadth-First Search
 |  |
@@ -154,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/0039-combination-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
