@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/01ATHARVAMODI/DSA/tree/master/0029-divide-two-integers) |
 | [1103-distribute-candies-to-people](https://github.com/01ATHARVAMODI/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/01ATHARVAMODI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/01ATHARVAMODI/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
