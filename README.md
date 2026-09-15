@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/01ATHARVAMODI/DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/01ATHARVAMODI/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/01ATHARVAMODI/DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/01ATHARVAMODI/DSA/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
