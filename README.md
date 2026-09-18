@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/01ATHARVAMODI/DSA/tree/master/0055-jump-game) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/01ATHARVAMODI/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/01ATHARVAMODI/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/01ATHARVAMODI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/01ATHARVAMODI/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/01ATHARVAMODI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/01ATHARVAMODI/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/01ATHARVAMODI/DSA/tree/master/0029-divide-two-integers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
