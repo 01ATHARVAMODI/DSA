@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/01ATHARVAMODI/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/01ATHARVAMODI/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/01ATHARVAMODI/DSA/tree/master/3668-restore-finishing-order) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/01ATHARVAMODI/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/01ATHARVAMODI/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/01ATHARVAMODI/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/01ATHARVAMODI/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/01ATHARVAMODI/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/01ATHARVAMODI/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/01ATHARVAMODI/DSA/tree/master/0709-to-lower-case) |
