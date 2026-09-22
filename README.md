@@ -204,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/01ATHARVAMODI/DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
