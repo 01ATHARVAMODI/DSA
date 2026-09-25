@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/01ATHARVAMODI/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/01ATHARVAMODI/DSA/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/01ATHARVAMODI/DSA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/01ATHARVAMODI/DSA/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
