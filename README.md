@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/0386-lexicographical-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/01ATHARVAMODI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/01ATHARVAMODI/DSA/tree/master/0196-delete-duplicate-emails) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
