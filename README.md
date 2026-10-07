@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/01ATHARVAMODI/DSA/tree/master/0196-delete-duplicate-emails) |
+| [0620-not-boring-movies](https://github.com/01ATHARVAMODI/DSA/tree/master/0620-not-boring-movies) |
 ## Trie
 |  |
 | ------- |
