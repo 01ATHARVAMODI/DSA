@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/01ATHARVAMODI/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/01ATHARVAMODI/DSA/tree/master/3668-restore-finishing-order) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/01ATHARVAMODI/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/01ATHARVAMODI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/01ATHARVAMODI/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/01ATHARVAMODI/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/01ATHARVAMODI/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/01ATHARVAMODI/DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/01ATHARVAMODI/DSA/tree/master/0678-valid-parenthesis-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/01ATHARVAMODI/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
