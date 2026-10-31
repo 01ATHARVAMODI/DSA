@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/01ATHARVAMODI/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/01ATHARVAMODI/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/01ATHARVAMODI/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/01ATHARVAMODI/DSA/tree/master/3668-restore-finishing-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/01ATHARVAMODI/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/01ATHARVAMODI/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/01ATHARVAMODI/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/01ATHARVAMODI/DSA/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/01ATHARVAMODI/DSA/tree/master/0678-valid-parenthesis-string) |
+| [3665-twisted-mirror-path-count](https://github.com/01ATHARVAMODI/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/01ATHARVAMODI/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/01ATHARVAMODI/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
