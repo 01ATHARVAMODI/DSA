@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/01ATHARVAMODI/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/01ATHARVAMODI/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/01ATHARVAMODI/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/01ATHARVAMODI/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/01ATHARVAMODI/DSA/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/01ATHARVAMODI/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1103-distribute-candies-to-people](https://github.com/01ATHARVAMODI/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/01ATHARVAMODI/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
