@@ -5,7 +5,7 @@ class Solution {
         Stack<Character> st = new Stack<>();
 
         for (char c : s.toCharArray()) {
-            if (c == '(' || c == '[' || c == '{') {
+            if (c == '(' || c == '{' || c == '[') {
                 st.push(c);
             } else {
                 if (st.isEmpty())
@@ -15,9 +15,9 @@ class Solution {
 
                 if (c == ')' && x != '(')
                     return false;
-                if (c == ']' && x != '[')
-                    return false;
                 if (c == '}' && x != '{')
+                    return false;
+                if (c == ']' && x != '[')
                     return false;
             }
         }
