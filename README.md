@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/01ATHARVAMODI/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/01ATHARVAMODI/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1267-count-servers-that-communicate](https://github.com/01ATHARVAMODI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/01ATHARVAMODI/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/01ATHARVAMODI/DSA/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/0386-lexicographical-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/01ATHARVAMODI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/01ATHARVAMODI/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/01ATHARVAMODI/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/01ATHARVAMODI/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/01ATHARVAMODI/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/01ATHARVAMODI/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -226,16 +229,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/01ATHARVAMODI/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/01ATHARVAMODI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/01ATHARVAMODI/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/01ATHARVAMODI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/01ATHARVAMODI/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/01ATHARVAMODI/DSA/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/01ATHARVAMODI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/01ATHARVAMODI/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/01ATHARVAMODI/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
