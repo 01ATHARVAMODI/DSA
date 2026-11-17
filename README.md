@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/01ATHARVAMODI/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/01ATHARVAMODI/DSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/01ATHARVAMODI/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0704-binary-search](https://github.com/01ATHARVAMODI/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/01ATHARVAMODI/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1267-count-servers-that-communicate](https://github.com/01ATHARVAMODI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/01ATHARVAMODI/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/01ATHARVAMODI/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
