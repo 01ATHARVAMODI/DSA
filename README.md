@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/01ATHARVAMODI/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1528-shuffle-string](https://github.com/01ATHARVAMODI/DSA/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/01ATHARVAMODI/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/01ATHARVAMODI/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/01ATHARVAMODI/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/01ATHARVAMODI/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
