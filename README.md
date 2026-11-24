@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/01ATHARVAMODI/DSA/tree/master/1528-shuffle-string) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/01ATHARVAMODI/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/01ATHARVAMODI/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/01ATHARVAMODI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3452-sum-of-good-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/01ATHARVAMODI/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/01ATHARVAMODI/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/01ATHARVAMODI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/01ATHARVAMODI/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/01ATHARVAMODI/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/01ATHARVAMODI/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/01ATHARVAMODI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/01ATHARVAMODI/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
@@ -297,9 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/01ATHARVAMODI/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/01ATHARVAMODI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/01ATHARVAMODI/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/01ATHARVAMODI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
