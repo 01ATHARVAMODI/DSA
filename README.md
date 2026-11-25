@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/01ATHARVAMODI/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/01ATHARVAMODI/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/01ATHARVAMODI/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/01ATHARVAMODI/DSA/tree/master/1046-last-stone-weight) |
 | [1267-count-servers-that-communicate](https://github.com/01ATHARVAMODI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/01ATHARVAMODI/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/01ATHARVAMODI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/01ATHARVAMODI/DSA/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
