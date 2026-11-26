@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/01ATHARVAMODI/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/01ATHARVAMODI/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/01ATHARVAMODI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/01ATHARVAMODI/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/01ATHARVAMODI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/01ATHARVAMODI/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/01ATHARVAMODI/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/01ATHARVAMODI/DSA/tree/master/1103-distribute-candies-to-people) |
+| [3360-stone-removal-game](https://github.com/01ATHARVAMODI/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/01ATHARVAMODI/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
